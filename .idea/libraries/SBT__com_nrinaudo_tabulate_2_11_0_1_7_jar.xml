@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="SBT: com.nrinaudo:tabulate_2.11:0.1.7:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.nrinaudo/tabulate_2.11/jars/tabulate_2.11-0.1.7.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.nrinaudo/tabulate_2.11/docs/tabulate_2.11-0.1.7-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.nrinaudo/tabulate_2.11/srcs/tabulate_2.11-0.1.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
